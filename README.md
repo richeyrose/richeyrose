@@ -1,5 +1,1 @@
-I'm an experienced IT professional with an eye for design, looking to transition into a development role. I've spent a lot of time on the "other side" of the development process, prioritizing, writing and reviewing enhancement requests to develop bespoke systems, testing and documenting newly developed features and designing and delivering training.
 
-I also have experience developing Blender add-ons written in Python, including being the sole developer of [MakeTile](https://maketile.readthedocs.io/en/latest/), a large and complex add-on for creating procedurally generated dungeon tiles and buildings for 3D printing that I ran a successful Kickstarter for. Additionally I have done bits of programming on and off for fun and and as an adjunct to various roles in an assortment of languages over the years, including C, C++, HTML/CSS, MySQL, PHP and GAMS
-
-I'm passionate about learning new skills, have just completed a Software Engineering bootcamp with [HyperionDev](https://www.hyperiondev.com/) and am working my way through an [Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures) mini masters with UCSan Diegox
